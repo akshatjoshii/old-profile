@@ -434,6 +434,9 @@ header{
 	color:#CCCCCC;
 	text-decoration:none;
 }
+.profile-img{
+	max-width: 250px;
+}
 
 
 
@@ -1287,6 +1290,11 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		top:0px;
 		
 	}
+}
+
+
+.text-justify{
+	text-align: justify;
 }
 
 
